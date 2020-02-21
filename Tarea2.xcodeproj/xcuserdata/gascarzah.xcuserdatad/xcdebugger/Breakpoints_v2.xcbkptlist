@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A4393AF-B56B-414C-8706-45EBEF30CFA2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea2/PaisDetalleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PaisDetalleViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - ae6a6593cb88db8c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.nombreLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - 9f4102959b8b2780"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.nombreLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - 7799bec62dcd2293"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.nombreLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - 5f7e30b5c5130cf1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.nombreLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - b8096fe0b9a4a80f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tarea2.PaisDetalleViewController"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "55137474-CD47-48B5-96DE-AAA85E9D2E52 - 5b02f2af96f051f8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea2.PaisDetalleViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarea2.PaisDetalleViewController&gt;"
+                  moduleName = "Tarea2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gascarzah/Documents/proyectos/ios/Tarea2/Tarea2/Tarea2/PaisDetalleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
